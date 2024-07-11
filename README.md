@@ -1,1 +1,3 @@
 # Disease-Prediction
+The World Health Organization estimates that heart disease accounts for 12 million deaths worldwide each year. Since a few years ago, the prevalence of cardiovascular disease has been rising quickly throughout the world. Heart disease is also referred to as a silent killer because it causes a person to pass away without any evident signs. Early heart disease detection is crucial in helping high-risk people decide whether to adjust their lifestyles, which lowers consequences. This study uses deep learning algorithms to analyses patient data and categories whether or not each patient has heart disease in order to predict future heart illness.
+
